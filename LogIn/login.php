@@ -16,7 +16,6 @@
     
 </form>
 <p>New Here? <a href="signup.php">Register</a></p>
-    <P>hi</P>
 </div>
 
 
